@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-08-10T16:49:50.334491",
+  "test_results": {
+    "baseline_control": 100.0,
+    "horizontal_flip": 75.20833333333333,
+    "geometric_translation": 96.27083333333334,
+    "region_cropping": 89.14583333333333,
+    "contrast_enhancement": 38.479166666666664,
+    "jpeg_compression": 50.458333333333336
+  },
+  "summary": {
+    "total_tests": 6,
+    "average_accuracy": 74.92708333333333,
+    "best_performance": [
+      "baseline_control",
+      100.0
+    ],
+    "worst_performance": [
+      "contrast_enhancement",
+      38.479166666666664
+    ]
+  }
+}
