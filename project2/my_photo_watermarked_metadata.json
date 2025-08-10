@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-08-10T16:49:10.899305",
+  "watermark_dimensions": [
+    40,
+    120
+  ],
+  "embedding_statistics": {
+    "watermark_bits": 4800,
+    "embedded_bits": 4800
+  },
+  "config": {
+    "threshold": 128,
+    "bit_depth": 1
+  }
+}
